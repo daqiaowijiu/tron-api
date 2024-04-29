@@ -1,15 +1,9 @@
 {
-    "name": "fenguoz/tron-api",
+    "name": "daqiaowijiu/tron-api",
     "description": "A PHP API for interacting with Tron (Trx)",
     "license": "MIT",
     "type":   "library",
-    "homepage": "https://github.com/fenguoz/tron-api",
-    "authors": [
-        {
-            "name": "Shamsudin Serderov",
-            "email": "steein.shamsudin@gmail.com"
-        }
-    ],
+    "homepage": "https://github.com/daqiaowijiu/tron-api",
     "keywords": [
         "tron-lib",
         "tron-php",
@@ -21,7 +15,7 @@
         "php": ">=8.0",
         "fenguoz/data-types": "^1.0",
         "guzzlehttp/guzzle": "^7.2",
-        "fenguoz/web3.php": "^1.0",
+        "daqiaowijiu/web3.php": "^1.0.0",
         "kornrunner/secp256k1": "^0.2",
         "simplito/elliptic-php": "^1.0",
         "ext-json": "*",
